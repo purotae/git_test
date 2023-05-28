@@ -1,0 +1,12 @@
+button{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 28px;
+}
+.clickme{
+    background-color: black;
+    color: wheat;
+}
+.nome{
+    background-color: yellow;
+    color: black;
+}
