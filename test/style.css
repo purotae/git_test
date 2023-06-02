@@ -1,3 +1,15 @@
 .box{
     box-sizing: border-box;
 }
+#1 {
+    background-color: aqua;
+}
+#2 {
+    background-color: black;
+}
+#3 {
+    background-color: brown;
+}
+#4{
+    background-color: blueviolet;
+}
